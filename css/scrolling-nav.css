@@ -1,0 +1,75 @@
+/*!
+ * Start Bootstrap - Scrolling Nav (https://startbootstrap.com/template-overviews/scrolling-nav)
+ * Copyright 2013-2017 Start Bootstrap
+ *
+ */
+
+header {
+  padding: 154px 0 100px;
+}
+
+@media (min-width: 992px) {
+  header {
+    padding: 156px 0 100px;
+  }
+}
+
+section {
+  padding: 30px 0;
+}
+
+#about      {background-color: #65d2bf;}
+
+#page-top   {background-image: url("czaszki2.jpg");}
+
+#Ekipa      {background-color:#757dd7;}
+
+#box {background-color: #69d5b6;}
+
+
+
+.bg-light {background-color: #34428c !important;}
+
+.card {background-color: #cddad0;}  
+
+.jumbotron {background-color: #5f8cb9;}
+
+.col-lg-3 col-sm-6 text-center mb-4 {background-color: #5f8cb9;}
+
+.parallax-1 {
+/* The image used */
+background-image:url("korea.jpg");}
+.parallax-2 {
+/* The image used */
+background-image:url("piratecover.jpg");}
+
+.parallax-3 {
+/* The image used */
+background-image:url("Tapety/radio7.jpg");}
+
+
+section.parallax {
+height: 860px;
+background-position: 50% 50%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+text-align: center;
+}
+section.parallax2 {
+height: 450px;
+background-position: 50% 50%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+text-align: center;
+}
+
+section.parallax3 {
+height: 300px;
+background-position: 50% 50%;
+background-repeat: no-repeat;
+background-attachment: fixed;
+background-size: cover;
+text-align: center;
+}
